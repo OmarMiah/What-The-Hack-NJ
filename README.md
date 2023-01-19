@@ -28,7 +28,7 @@
 
 Thanks a lot for spending your time helping `What The Hack NJ` grow. Happy Hacking 🏆
 
-[![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-hackathon-projects)](https://github.com/OmarMiah/What-The-Hack-NJ)
+[![Contributors](https://contrib.rocks/image?repo=OmarMiah/What-The-Hack-NJ)](https://github.com/OmarMiah/What-The-Hack-NJ)
 
 # Thanks to all Stargazers ⭐️
 
