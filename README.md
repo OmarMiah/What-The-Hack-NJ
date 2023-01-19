@@ -18,7 +18,7 @@
 # Projects 💻
 | S/N      | Project |Description |Team |
 | ----------- | ----------- |----------- |----------- |    
-| 1| [Project Name](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon)| Reminder app with Hijri calendar extension| [Nishant Kumar](https://hashnode.com/@Trendster) [team members (preferably github links)](https://github.com/omarmiah)|     
+| 1| [Project Name](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon)| Reminder app with Hijri calendar extension| [team members (preferably github links)](https://github.com/omarmiah)|     
 | 2| [Project Name](https://amalshaji.hashnode.dev/amalytics-a-tiny-analytics-powered-by-harperdb)| Scoreboard | [team members](https://github.com/omarmiah)|     
 | 3| [Project Name](https://blog.greenroots.info/anko-a-dads-attempt-to-make-the-daughter-fall-in-love-with-mathematics-cklkz9dic013qgos18evgd9cz)| Manage New ERP deployment| [team members](https://github.com/omarmiah)|     
 | 4| [Project Name](https://unclebigbay.com/introducing-the-anonymous-feedback-platform-powered-by-the-chern-stack) | GPT3xAI Art demo| [team members](https://github.com/omarmiah3)|     
