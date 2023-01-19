@@ -6,11 +6,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
   <p>
-      Developers from different parts of the world have developed a lot of amazing projects during hackathon. This is a curated list of awesome hackathon project. 🏆 Projects gets updated daily 🏆
+      A community that loves to code.  This is a list of awesome projects created by awesome developers. 
+      🏆 Will update as new teams role in 🏆
   </p>
   <p>
     <i>
-      Want to contribute with some hackathon projects ? Awesome! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
+      Want to sign up for this hackathon? Awesome! Please, sign up <a href="https://forms.gle/XYSCaCt57Q4f1n227"> here</a>.
     </i>
   </p>
   
