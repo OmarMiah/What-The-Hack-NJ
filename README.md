@@ -18,7 +18,7 @@
 # Projects 💻
 | S/N      | Project |Description |Team |
 | ----------- | ----------- |----------- |----------- |    
-| 1| [Project Name](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon)| An app that helps you to Reach your goals by managing your Habits| [Nishant Kumar](https://hashnode.com/@Trendster)[Nishant Kumar](https://hashnode.com/@Trendster)|     
+| 1| [Project Name](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon)| An app that helps you to Reach your goals by managing your Habits| [Nishant Kumar](https://hashnode.com/@Trendster) [Nishant Kumar](https://hashnode.com/@Trendster)|     
 | 2| [Project Name](https://amalshaji.hashnode.dev/amalytics-a-tiny-analytics-powered-by-harperdb)| A tiny analytics powered by HarperDB| [Amal Shaji](https://github.com/amalshaji)|     
 | 3| [Project Name](https://blog.greenroots.info/anko-a-dads-attempt-to-make-the-daughter-fall-in-love-with-mathematics-cklkz9dic013qgos18evgd9cz)| A dad's attempt to make the daughter fall in love with mathematics| [Tapas Adhikary](https://github.com/atapas)|     
 | 4| [Project Name](https://unclebigbay.com/introducing-the-anonymous-feedback-platform-powered-by-the-chern-stack) | The Anonymous Feedback Platform| [Ayodele Samuel Adebayo (unclebigbay)](https://github.com/unclebay143)|     
