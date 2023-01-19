@@ -29,8 +29,8 @@
 
 Thanks a lot for spending your time helping `Awesome Hackathon Project` grow. Happy Hacking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-hackathon-projects)](https://github.com/Olanetsoft/awesome-hackathon-projects/edit/develop/README.md)
+[![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-hackathon-projects)](https://github.com/OmarMiah/What-The-Hack-NJ)
 
 # Thanks to all Stargazers ⭐️
 
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-hackathon-projects?limit=25)](https://github.com/Olanetsoft/awesome-hackathon-projects)
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-hackathon-projects?limit=25)](https://github.com/OmarMiah/What-The-Hack-NJ)
