@@ -32,4 +32,4 @@ Thanks a lot for spending your time helping `What The Hack NJ` grow. Happy Hacki
 
 # Thanks to all Stargazers ⭐️
 
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/OmarMiah/What-The-Hack-NJ?limit=25 )](https://github.com/OmarMiah/What-The-Hack-NJ)
+[![Thanks to all stargazers](https://img.shields.io/github/stars/OmarMiah/What-The-Hack-NJ.svg?style=flat-square)](https://github.com/OmarMiah/What-The-Hack-NJ/stargazers)
