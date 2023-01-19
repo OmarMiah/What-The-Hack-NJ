@@ -28,7 +28,7 @@
 
 Thanks a lot for spending your time helping `What The Hack NJ` grow. Happy Hacking 🏆
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](https://github.com/OmarMiah/What-The-Hack-NJ/Contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](https://github.com/OmarMiah/What-The-Hack-NJ/graphs/contributors)
 # Thanks to all Stargazers ⭐️
 
 [![Thanks to all stargazers](https://img.shields.io/github/stars/OmarMiah/What-The-Hack-NJ.svg?style=flat-square)](https://github.com/OmarMiah/What-The-Hack-NJ/stargazers)
